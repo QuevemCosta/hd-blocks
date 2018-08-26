@@ -1,4 +1,14 @@
 #!/usr/bin/env bash
+#----------Dados do altor--------------
+#Altor: Quevem Costa da Cruz
+#data: 26 de Agosto de 2018
+#Projéto: Stark soluções em tecnologia
+
+#----------------------Instruções------------------
+#/home/nome-de-usuario/hd-blocks/scripts/badbloks.sh //caminho para o arquivo 1
+#/home/nome-de-usuario/hd-blocks/scripts/leitura-escrita.sh //caminho para o arquivo 2
+#/home/nome-de-usuario/hd-blocks/scripts/reparo-formatacao.sh //caminho para o arquivo 3
+#Salve a pasta na sua home e lembre de alterar o nome de usuario para o em uso em sua máquina
 
 echo '
 
