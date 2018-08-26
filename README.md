@@ -1,5 +1,6 @@
 # hd-blocks
-Script em shell para automatizar testes de hd via cosole no linux
+Script em shell para automatizar testes de hd via cosole no linux.
+
 Para rodar os arquivos em outras maquinas alem da minha é nescessario alterar alguns caminhos 
 no códico original. Instruções mais detalhadas no arquivo main.sh visto que é nele onde se deve fazer estas alterações
 como observação gostaria de resaltar que shell não é o meu ponto forte por enqunto. 
